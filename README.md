@@ -6,7 +6,7 @@ Création d'un format agenda
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/diary_format/
 
 ## Développez avec
 
