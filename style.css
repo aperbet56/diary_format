@@ -39,3 +39,10 @@ body {
     line-height: 1.8;
 }
 
+/**** Responsive design ****/
+
+@media screen and (max-width: 472px) {
+    .datetime {
+        width: 300px;
+    }
+}
