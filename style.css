@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
-
 /**** Reset ****/
 
 * {
@@ -7,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 /**** Style général de la page ****/
 
 body {
