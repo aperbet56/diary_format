@@ -1,5 +1,7 @@
 ## DATE ET HEURE AU FORMAT AGENDA (DATE AND TIME DIARY FORMAT)
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un format agenda
